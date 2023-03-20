@@ -11443,7 +11443,6 @@ section.resume-section .resume-section-content {
   font-size: 20px;
   font-weight: 600;
 }
-
 .narom{
   color: #bd5d38;
   font-family: 'Noto Serif KR', serif;
@@ -11451,25 +11450,21 @@ section.resume-section .resume-section-content {
   font-weight: 600;
   font-size: 1.3rem;
 }
-
 .naromMail{
   color: #343a40;
   font-size: 1.2rem;
   text-transform: none;
   text-decoration-line: none;
 }
-
 .intr{
   font-size: 16px;
   font-weight: 600;
 }
-
 .portImg{
   padding: 10px;
   width: 500px;
   height: 300px;
 }
-
 .portIcon{
   padding: 10px;
   width: 64px;
