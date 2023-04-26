@@ -562,7 +562,7 @@ progress {
   display: inline-block;
 }
 .list-inline-item:not(:last-child) {
-  margin-right: 0.5rem;
+  margin-right: 0.6rem;
 }
 
 .initialism {
@@ -11083,6 +11083,9 @@ footer.footer .social-link:hover {
 }
 .portIcon{
   padding: 10px;
-  width: 64px;
-  height: 70px;
+  width: 85px;
+  height: 90px;
+}
+.skillPoint{
+  font-size: 18px;
 }
